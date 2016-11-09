@@ -46,7 +46,7 @@ String content = mDecoder.decode(bitmap);
 
 # 实例
 
-
+![image](https://github.com/djonce/android-stickyvideo/blob/master/59THT}5`0N8MVK~B@`M$[E1.png)
 
 
 
