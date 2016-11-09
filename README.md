@@ -43,3 +43,12 @@ final QRCodeDecoder mDecoder = new QRCodeDecoder.Builder().build();
 // 传入二维码图案Bitmap对象然后解码成文本内容
 String content = mDecoder.decode(bitmap);
 ```
+
+# 实例
+
+
+
+
+
+
+
