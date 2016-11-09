@@ -14,7 +14,7 @@
 
 ```groovy
 dependencies {
-    compile 'com.github.yoojia:next-qrcode:2.0-2'
+    compile 'tech.wangjie:qrcodetools:1.0.0'
     ...
 }
 ```
