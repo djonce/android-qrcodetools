@@ -1,5 +1,6 @@
 # android-qrcodetools
 生成二维码和二维码图片识别工具(nextqrcode 代码copy过来，移除了扫描的功能)
+如需扫描请查看扫描效率更高的[android-qrcodescan](https://github.com/djonce/android-qrcodescan)库
 
 # NextQRCode ZXing开源库的精简版
 
